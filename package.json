@@ -1,6 +1,6 @@
 {
   "name": "bunny-hono",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "type": "module",
   "description": "Hono adapter for Edge Scripting for bunny.net 🐰",
